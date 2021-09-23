@@ -1,5 +1,5 @@
 from dotenv import get_key
-from typing import Optional, Literal
+from typing import Literal
 
 api_key = get_key("./.env", "KEY")
 
